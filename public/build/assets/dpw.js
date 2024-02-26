@@ -1,0 +1,1 @@
+import{_ as o,L as s,o as a,B as n,C as c,a as r,G as p}from"./id.js";import{E as _}from"./index9.js";const l={components:{},props:{data:{type:Object}},setup(){return{}}},d={class:"content"};function u(m,f,i,b,w,x){const t=_,e=s("base-layout");return a(),n(e,null,{default:c(()=>[r("div",d,[p(t,{gutter:20,class:"mb-3"})])]),_:1})}const h=o(l,[["render",u]]);export{h as default};
